@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "\"Find Friends and more using Express, Path and Body-Parser\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfkinnc/FriendFinder.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "W Kassebaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfkinnc/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/wfkinnc/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
